@@ -1,0 +1,16 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Arabika",
+        "price": 190,
+        "size": "XL",
+        "weight": "2000g"
+    },
+    "3": {
+        "id": "3",
+        "name": "Liberiya",
+        "price": 200,
+        "size": "M",
+        "weight": "500g"
+    }
+}
